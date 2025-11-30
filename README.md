@@ -15,4 +15,7 @@ let's go inside `src` folder and see.
 
 - `utils` -> contains helper methods, error classes etc.
 
-go to `src` write `cd src` and write `npx sequelize init`
+go to `src` write `cd src` and write 
+
+``` npx sequelize init ```
+- By executing above cmd you will get model folder,seeders folder and config.json inside config folder 
