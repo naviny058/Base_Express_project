@@ -14,3 +14,5 @@ let's go inside `src` folder and see.
 - `services` -> contains the buiness logic and interacts with `repositories` for data from the database
 
 - `utils` -> contains helper methods, error classes etc.
+
+go to `src` write `cd src` and write `npx sequelize init`
